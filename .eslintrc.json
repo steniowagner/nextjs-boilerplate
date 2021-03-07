@@ -25,7 +25,7 @@
     "plugins": [
         "react",
         "@typescript-eslint",
-        "react-hoooks"
+        "react-hooks"
     ],
     "rules": {
       "react-hooks/rules-of-hooks": "error",
